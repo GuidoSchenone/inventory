@@ -1,0 +1,14 @@
+C:\Users\Materia Gris\.vscode\ForEachElement\bin\Debug\net8.0\ForEachElement.exe
+C:\Users\Materia Gris\.vscode\ForEachElement\bin\Debug\net8.0\ForEachElement.deps.json
+C:\Users\Materia Gris\.vscode\ForEachElement\bin\Debug\net8.0\ForEachElement.runtimeconfig.json
+C:\Users\Materia Gris\.vscode\ForEachElement\bin\Debug\net8.0\ForEachElement.dll
+C:\Users\Materia Gris\.vscode\ForEachElement\bin\Debug\net8.0\ForEachElement.pdb
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\ForEachElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\ForEachElement.AssemblyInfoInputs.cache
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\ForEachElement.AssemblyInfo.cs
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\ForEachElement.csproj.CoreCompileInputs.cache
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\ForEachElement.dll
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\refint\ForEachElement.dll
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\ForEachElement.pdb
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\ForEachElement.genruntimeconfig.cache
+C:\Users\Materia Gris\.vscode\ForEachElement\obj\Debug\net8.0\ref\ForEachElement.dll
